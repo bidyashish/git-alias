@@ -1,0 +1,25 @@
+{
+  "name": "git-alias",
+  "version": "1.0.0",
+  "description": "A shorthand commands list for widely used Git commands",
+  "main": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bidyashish/git-alias.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Bidyashish Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bidyashish/git-alias/issues"
+  },
+  "homepage": "https://github.com/bidyashish/git-alias#readme",
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
