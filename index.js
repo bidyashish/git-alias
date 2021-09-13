@@ -7,7 +7,7 @@ exec("sh  git-alias.sh", (error, stdout, stderr) => {
   console.log(stderr);
   if (error !== null) {
     console.log(`
-    Thanks for installing git-alias ! can use short command for widely used git commands
+    Thanks for installing git-alias ! You can use short command for widely used git commands
 
     gc = git checkout
     example "gc YourBranchName" 
