@@ -12,6 +12,7 @@ alias gc="git checkout"
 gc master
   ```
 
+
 List all local Branches  
 alias gb="git branch"
 
